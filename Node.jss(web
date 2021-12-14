@@ -1,0 +1,6 @@
+var http = require('http');
+http.createServer(function (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Congratulations! node.JS has successfully been installed !\n');
+}).listen(3000, "45.79.000.000");
+console.log('Server running at http://45.79.000.000:3000/');
