@@ -1,3 +1,8 @@
+/*
+@author Christallinqq
+@since 12/15/21
+*/
+
 package swag.company;
 
 import com.sun.istack.internal.NotNull;
